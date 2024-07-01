@@ -1,0 +1,103 @@
+
+body
+        {
+            background-image:url('images/attire_gif2.gif');
+            background-size:100%;
+            background-repeat:no-repeat;
+        }
+        
+.titletheme
+                {
+            font-family: Sylfaen;
+            font-size: 70px;
+        }
+.tabtheme
+        {
+            font-family: Sylfaen;
+        background-color: rgba(155,125,45,0.7);
+            height:50px;
+            color: black;
+            font-size: 20px;
+            text-transform: uppercase;      
+        }
+.texttheme{
+            width: 300px;
+            height: 30px;
+            border-radius: 30px;
+           
+        }
+        
+.tdtheme:hover{
+            background-color: white;
+            color:white;
+        }
+        
+.link{
+            color:black;
+            text-decoration: none;
+                
+        }
+.link1{
+            color:white;
+            text-decoration: none;
+                
+        }
+.backtheme{
+            background-color: rgba(155,125,45,0.7);
+            box-shadow: 0px 0px 50px black;
+            margin-top:-500px;
+            margin-right:100px;
+        }
+.backtheme2{
+            background-color: rgba(155,125,45,0.7);
+            box-shadow: 0px 0px 50px black;
+            /*margin-top:-500px;*/
+            margin-right:100px;
+        }
+.backtheme1{
+            background-color: rgba(155,125,45,0.7);
+            box-shadow: 0px 0px 50px black,0px 0px 50px black;
+            margin-top:100px;
+        }
+.boxestheme{
+            height: 350px;
+            width: 350px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            float: left;
+            font-size: 30px;
+            margin: 40px;
+        }       
+.textareatheme{
+            width:300px;
+            height:80px;
+            border-radius:20px;
+           
+        }
+        .buttons{
+            padding: 10px;
+            border-radius: 20px;
+        }
+        .buttons:hover{
+            background-color: greenyellow;
+            color: white;
+        }
+        h3 a.link:hover{
+            color: white;
+            text-shadow: 2px 2px 5px black;
+        } 
+        .boxestheme:hover{
+            filter: brightness(70%);
+            text-shadow: 2px 2px 10px white;
+        }
+        .boxestheme2{
+            height: 300px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            float: left;
+            font-size: 30px;
+            border: 10px solid hotpink;
+            
+        }
